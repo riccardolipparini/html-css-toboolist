@@ -46,6 +46,7 @@ body{
         margin: 30px auto;
         margin-left: 40px;
         border-radius: 5px;
+        border: solid 1px;
         
     }
 
@@ -75,6 +76,10 @@ body{
         ;
     }
 
+    .scrittebottoni{
+        color: white;
+    }
+
     .puntitabella{
         font-size: 20px;
         margin-top: 20px;
@@ -91,4 +96,54 @@ body{
         border-radius: 15px;
     }
 
+    #x{
+        color: red;
+        size: 100px;
+    }
+
+    .Q1{
+        display: inline-block;
+        background-color: rgb(144, 60, 151);
+        padding: 10px;
+        margin: 30px auto;
+        margin-left: 40px;
+        border-radius: 15px;
+    }
+
+    .Recruiting{
+        display: inline-block;
+        background-color: rgb(99, 199, 116);
+        padding: 10px;
+        margin: 30px auto;
+        margin-left: 40px;
+        border-radius: 15px;
+    }
+    
+    .mobile{
+        display: inline-block;
+        background-color: rgb(189, 105, 57);
+        padding: 10px;
+        margin: 30px auto;
+        margin-left: 40px;
+        border-radius: 15px;
+    }
+    
+    .website{
+        display: inline-block;
+        background-color: rgb(158, 30, 137);
+        padding: 10px;
+        margin: 30px auto;
+        margin-left: 40px;
+        border-radius: 15px
+    }
+
+    .sales{
+        display: inline-block;
+        background-color: rgb(138, 192, 68);
+        padding: 10px;
+        margin: 30px auto;
+        margin-left: 40px;
+        border-radius: 15px
+    }
+    
     
